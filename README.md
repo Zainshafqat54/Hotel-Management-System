@@ -17,7 +17,7 @@ A website created using HTML, CSS, and JavaScript for hotel management purposes.
 ## Usage
 
 1. Clone the repository
-- git clone https://github.com/Anas1108/Hotel-Management-System.git
+- git clone https://github.com/Zainshafqat54/Hotel-Management-System
 
 2. Open the hotel_managment.html file in a browser to view the website.
 
